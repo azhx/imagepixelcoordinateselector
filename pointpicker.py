@@ -1,6 +1,5 @@
 import json
 import tkinter
-import argparse
 import PIL.Image
 import PIL.ImageTk
 from PIL import ImageFile
